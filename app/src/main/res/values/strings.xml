@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Arpeggiator</string>
+
+    <string-array name="mode_array">
+        <item>Major</item>
+        <item>Natural Minor</item>
+        <item>Dorian</item>
+        <item>Mixolydian</item>
+    </string-array>
+
+    <string-array name="waveform_array">
+        <item>Sine</item>
+        <item>Impulse</item>
+        <item>Sawtooth</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>

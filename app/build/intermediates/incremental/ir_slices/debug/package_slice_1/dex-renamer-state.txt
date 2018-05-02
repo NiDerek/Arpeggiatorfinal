@@ -1,0 +1,4 @@
+#Sun Apr 29 11:17:39 CDT 2018
+base.0=C\:\\Users\\Eagle\\AndroidStudioProjects\\Arpeggiator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+path.0=classes.dex
+renamed.0=classes.dex
